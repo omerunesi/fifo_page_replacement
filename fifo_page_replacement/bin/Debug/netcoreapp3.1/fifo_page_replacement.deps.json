@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "fifo_page_replacement/1.0.0": {
+        "runtime": {
+          "fifo_page_replacement.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "fifo_page_replacement/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

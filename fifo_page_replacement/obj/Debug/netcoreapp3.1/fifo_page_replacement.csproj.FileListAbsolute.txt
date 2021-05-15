@@ -1,0 +1,11 @@
+C:\Users\Ömer ÜNEŞİ\Source\Repos\fifo_page_replacement\fifo_page_replacement\bin\Debug\netcoreapp3.1\fifo_page_replacement.exe
+C:\Users\Ömer ÜNEŞİ\Source\Repos\fifo_page_replacement\fifo_page_replacement\bin\Debug\netcoreapp3.1\fifo_page_replacement.deps.json
+C:\Users\Ömer ÜNEŞİ\Source\Repos\fifo_page_replacement\fifo_page_replacement\bin\Debug\netcoreapp3.1\fifo_page_replacement.runtimeconfig.json
+C:\Users\Ömer ÜNEŞİ\Source\Repos\fifo_page_replacement\fifo_page_replacement\bin\Debug\netcoreapp3.1\fifo_page_replacement.runtimeconfig.dev.json
+C:\Users\Ömer ÜNEŞİ\Source\Repos\fifo_page_replacement\fifo_page_replacement\bin\Debug\netcoreapp3.1\fifo_page_replacement.dll
+C:\Users\Ömer ÜNEŞİ\Source\Repos\fifo_page_replacement\fifo_page_replacement\bin\Debug\netcoreapp3.1\fifo_page_replacement.pdb
+C:\Users\Ömer ÜNEŞİ\Source\Repos\fifo_page_replacement\fifo_page_replacement\obj\Debug\netcoreapp3.1\fifo_page_replacement.csprojAssemblyReference.cache
+C:\Users\Ömer ÜNEŞİ\Source\Repos\fifo_page_replacement\fifo_page_replacement\obj\Debug\netcoreapp3.1\fifo_page_replacement.AssemblyInfoInputs.cache
+C:\Users\Ömer ÜNEŞİ\Source\Repos\fifo_page_replacement\fifo_page_replacement\obj\Debug\netcoreapp3.1\fifo_page_replacement.AssemblyInfo.cs
+C:\Users\Ömer ÜNEŞİ\Source\Repos\fifo_page_replacement\fifo_page_replacement\obj\Debug\netcoreapp3.1\fifo_page_replacement.dll
+C:\Users\Ömer ÜNEŞİ\Source\Repos\fifo_page_replacement\fifo_page_replacement\obj\Debug\netcoreapp3.1\fifo_page_replacement.pdb
